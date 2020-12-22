@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ae4bc3b-a2de-4f65-af9d-27569f3f9d88" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/.browserslistrc" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/.browserslistrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/401.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/401.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/chart-area-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/chart-area-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/chart-bar-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/chart-bar-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/chart-pie-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/chart-pie-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/datatables-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/demo/datatables-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/img/error-404-monochrome.svg" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/assets/img/error-404-monochrome.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/charts.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/charts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/layout-sidenav-light.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/layout-sidenav-light.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/layout-static.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/layout-static.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/password.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/password.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/dist/tables.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-assets.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-assets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-pug.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-pug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-scss.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/build-scss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/clean.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/clean.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-assets.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-assets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-pug.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-pug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-scss.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/render-scss.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/sb-watch.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/sb-watch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/start-debug.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/start-debug.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/scripts/start.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/chart-area-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/chart-area-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/chart-bar-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/chart-bar-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/chart-pie-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/chart-pie-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/datatables-demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/demo/datatables-demo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/img/error-404-monochrome.svg" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/assets/img/error-404-monochrome.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/authentication.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/authentication.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/dashboard.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/dashboard.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/error.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/error.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/footer.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/footer.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/css.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/css.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/icons.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/icons.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/meta.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/meta.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/title.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/head/title.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/navigation/sidenav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/navigation/sidenav.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/navigation/topnav.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/navigation/topnav.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/scripts.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/layouts/includes/scripts.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/401.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/401.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/404.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/404.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/500.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/500.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/charts.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/charts.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/includes/datatable.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/includes/datatable.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/includes/page-header.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/includes/page-header.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/layout-sidenav-light.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/layout-sidenav-light.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/layout-static.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/layout-static.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/login.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/login.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/password.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/password.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/register.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/register.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/tables.pug" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/pug/pages/tables.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_authentication.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_authentication.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_dashboard-default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_dashboard-default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_dashboard-fixed.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_dashboard-fixed.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_error.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/layout/_error.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/_nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/_nav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/_topnav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/_topnav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/sidenav/_sidenav-dark.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/sidenav/_sidenav-dark.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/sidenav/_sidenav-light.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/sidenav/_sidenav-light.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/sidenav/_sidenav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/navigation/sidenav/_sidenav.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/variables/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/variables/_navigation.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/variables/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/merc/admin-templete/startbootstrap-sb-admin/src/scss/variables/_spacing.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/merc/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/merc" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/merc/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/merc/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/merc/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/merc/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/merc/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/merc/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/merc/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/merc/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/merc/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/merc/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/merc/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/merc/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/merc/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/merc/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/merc/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/merc/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/merc/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/merc/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/merc/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/merc/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/merc/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/merc/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/merc/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/merc/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/merc/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/merc/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/merc/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/merc/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/merc/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/merc/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/merc/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/merc/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/merc/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/merc/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/merc/vendor/composer" />
+      <path value="$PROJECT_DIR$/merc/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/merc/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/merc/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/merc/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/merc/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/merc/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/merc/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/merc/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/merc/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/merc/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/merc/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/merc/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/merc/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/merc/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/merc/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/merc/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/merc/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/merc/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/merc/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/merc/vendor/laravel/ui" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kaGg1ZpTjXNcLCM9HUzQ2PoPnl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/merc/public" />
+      <recent name="$PROJECT_DIR$/merc/public/intro" />
+      <recent name="$PROJECT_DIR$/merc/public/admin-page" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/merc/resources/views/admin" />
+      <recent name="$PROJECT_DIR$/merc/public/images/home-page" />
+      <recent name="$PROJECT_DIR$/merc/public/images/user-img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.ExampleTest.testBasicTest">
+    <configuration name="ExampleTest.testBasicTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Tests\Unit\ExampleTest" directory="$PROJECT_DIR$/merc" file="$PROJECT_DIR$/merc/tests/Unit/ExampleTest.php" method="testBasicTest" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner directory="$PROJECT_DIR$/merc" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merc" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" nameIsGenerated="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.3" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner directory="$PROJECT_DIR$/merc" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHPUnit.merc" />
+      <item itemvalue="PHPUnit.ExampleTest.testBasicTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ExampleTest.testBasicTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae4bc3b-a2de-4f65-af9d-27569f3f9d88" name="Default Changelist" comment="" />
+      <created>1605931395175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605931395175</updated>
+      <workItem from="1605931396330" duration="643000" />
+      <workItem from="1605932055071" duration="3575000" />
+      <workItem from="1605938545588" duration="38000" />
+      <workItem from="1605938596815" duration="90000" />
+      <workItem from="1605938701576" duration="161000" />
+      <workItem from="1605938886030" duration="2837000" />
+      <workItem from="1605941822017" duration="9961000" />
+      <workItem from="1605961500673" duration="4482000" />
+      <workItem from="1605966410502" duration="13060000" />
+      <workItem from="1606202131877" duration="21000" />
+      <workItem from="1606203599909" duration="75000" />
+      <workItem from="1606208620777" duration="582000" />
+      <workItem from="1606209305400" duration="1294000" />
+      <workItem from="1606210840174" duration="4000" />
+      <workItem from="1606210898828" duration="33000" />
+      <workItem from="1606210957551" duration="45000" />
+      <workItem from="1606211287541" duration="2017000" />
+      <workItem from="1606308750657" duration="16277000" />
+      <workItem from="1606379823645" duration="11040000" />
+      <workItem from="1606484631934" duration="16915000" />
+      <workItem from="1606709782092" duration="67000" />
+      <workItem from="1606726490104" duration="39000" />
+      <workItem from="1606739933355" duration="23325000" />
+      <workItem from="1606837260994" duration="6000" />
+      <workItem from="1606837339568" duration="75000" />
+      <workItem from="1606837472709" duration="10000" />
+      <workItem from="1606871066221" duration="205000" />
+      <workItem from="1606871344874" duration="8666000" />
+      <workItem from="1606895102487" duration="58653000" />
+      <workItem from="1607225243762" duration="23000" />
+      <workItem from="1607302930621" duration="17614000" />
+      <workItem from="1607333929538" duration="5812000" />
+      <workItem from="1607389473939" duration="2061000" />
+      <workItem from="1607400564148" duration="9473000" />
+      <workItem from="1607423038643" duration="10721000" />
+      <workItem from="1607475604765" duration="216000" />
+      <workItem from="1607477137527" duration="424000" />
+      <workItem from="1607487811916" duration="82000" />
+      <workItem from="1607496182720" duration="17444000" />
+      <workItem from="1607601507384" duration="44000" />
+      <workItem from="1607665792308" duration="768000" />
+      <workItem from="1607680115070" duration="1110000" />
+      <workItem from="1608024564401" duration="75000" />
+      <workItem from="1608024860305" duration="282000" />
+      <workItem from="1608347668584" duration="1699000" />
+      <workItem from="1608542517307" duration="3306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="411" y="168" key="#CLI_Interpreters" timestamp="1606880909244">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="411" y="168" key="#CLI_Interpreters/0.0.1440.900@0.0.1440.900" timestamp="1606880909244" />
+    <state x="548" y="201" key="#CLI_Interpreters/0.0.1920.1080@0.0.1920.1080" timestamp="1606880578841" />
+    <state x="354" y="135" key="#Inspections" timestamp="1608609084702">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="354" y="135" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1608609084702" />
+    <state x="433" y="281" key="#Notifications" timestamp="1607438628466">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="433" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1607438628466" />
+    <state x="628" y="189" key="#PHP" timestamp="1606880580143">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="628" y="189" key="#PHP/0.0.1920.1080@0.0.1920.1080" timestamp="1606880580143" />
+    <state x="197" y="143" key="#Test_Frameworks" timestamp="1606880930485">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="197" y="143" key="#Test_Frameworks/0.0.1440.900@0.0.1440.900" timestamp="1606880930485" />
+    <state x="22" y="143" width="1174" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606880934854">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="22" y="143" width="1174" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606880934854" />
+    <state x="29" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606880721991" />
+    <state x="444" y="259" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607593356957">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="444" y="259" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1607593356957" />
+    <state x="505" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1606383811542">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="505" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1606383811542" />
+    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607502502064">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="212" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607502502064" />
+    <state x="297" y="25" key="CommitChangelistDialog2" timestamp="1606309569548">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="297" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606309569548" />
+    <state x="62" y="97" key="DiffContextDialog" timestamp="1607430667404">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="62" y="97" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1607430667404" />
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom" timestamp="1606895086804">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606895086804" />
+    <state width="1878" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1606880722158" />
+    <state width="1398" height="297" key="GridCell.Tab.0.center" timestamp="1606895086803">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606895086803" />
+    <state width="1878" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1606880722157" />
+    <state width="1398" height="297" key="GridCell.Tab.0.left" timestamp="1606895086802">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606895086802" />
+    <state width="1878" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1606880722156" />
+    <state width="1398" height="297" key="GridCell.Tab.0.right" timestamp="1606895086804">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="297" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606895086804" />
+    <state width="1878" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1606880722158" />
+    <state x="460" y="183" key="NewPhpClassDialog" timestamp="1607504350600">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="460" y="183" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1607504350600" />
+    <state x="539" y="380" key="NewPhpFileDialog" timestamp="1607504861014">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="539" y="380" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1607504861014" />
+    <state x="719" y="456" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1606880045156" />
+    <state x="414" y="177" key="RollbackChangesDialog" timestamp="1607430675515">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="414" y="177" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1607430675515" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1606837377151">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1606837377151" />
+    <state x="571" y="370" key="VCS.ChangelistChooser" timestamp="1606989615057">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="571" y="370" key="VCS.ChangelistChooser/0.0.1440.900@0.0.1440.900" timestamp="1606989615057" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1608349993036">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1608349993036" />
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1606880840959">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1606880840959" />
+    <state x="547" y="236" key="refactoring.ChangeSignatureDialog" timestamp="1607002792964">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="547" y="236" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1607002792964" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1607681892513">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1607681892513" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1608609012250">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1608609012250" />
+  </component>
+</project>

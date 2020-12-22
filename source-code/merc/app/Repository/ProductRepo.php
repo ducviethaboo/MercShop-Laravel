@@ -46,4 +46,11 @@ class ProductRepo
         $product->productImg = $products->getProductImg();
         $product->save();
     }
+
+    public function addProduct($request)
+    {
+        $product = new Product();
+        $product->fill($request);
+        return $product->save();
+    }
 }
