@@ -18,6 +18,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('products', [App\Http\Controllers\Api\ProductController::class, 'getAllProductAPI']);
 
 
-Route::get('products/{id}', [ProductController::class,'showById']);
-Route::get('delete/products/{id}', [ProductController::class,'deleteProductApi']);
-Route::post('add/products', [ProductController::class,'addProductApi']);
+Route::get('products/{id}', [\App\Http\Controllers\Api\ProductController::class,'showById']);
+Route::get('delete/products/{id}', [App\Http\Controllers\Api\ProductController::class,'deleteProductApi']);
+Route::post('add/products', [App\Http\Controllers\Api\ProductController::class,'addProductApi']);
